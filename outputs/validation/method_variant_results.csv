@@ -1,0 +1,29 @@
+features,scaler,weighting,gale_reference,top_region,best_candidate,afar_in_top10,afar_best,atacama_best,afar_median,atacama_median,afar_leads
+all six features,both (original),equal,full window (interpolated incl.),Afar,Afar_0002,10,8.437698364464785,9.212851915539026,9.060320680290909,9.440738324126464,True
+all six features,both (original),cluster-weighted,full window (interpolated incl.),Afar,Afar_0002,6,7.9182813894880635,8.273853656651134,8.558490395291958,8.481092562110163,True
+all six features,earth only,equal,full window (interpolated incl.),Atacama,Atacama_0004,1,36.670783647588905,35.85082120144109,37.44782256888962,36.760675402180034,False
+all six features,earth only,cluster-weighted,full window (interpolated incl.),Atacama,Atacama_0004,0,36.48930556379099,35.4817660729773,37.25988622219392,36.36027783883145,False
+all six features,robust median/MAD (earth),equal,full window (interpolated incl.),Atacama,Atacama_0004,0,47.52923024380093,46.17483022578663,48.578940564285375,47.368774844543225,False
+all six features,robust median/MAD (earth),cluster-weighted,full window (interpolated incl.),Atacama,Atacama_0004,0,47.47231442529708,46.06017332916009,48.52417971053322,47.24408912596415,False
+all six features,log ratio to Gale,equal,full window (interpolated incl.),Afar,Afar_0007,10,0.707320530923422,0.8481406426369565,0.8004778381598332,0.9067158881348294,True
+all six features,log ratio to Gale,cluster-weighted,full window (interpolated incl.),Afar,Afar_0002,10,0.6642898242661143,0.7877502279223868,0.7656511487152624,0.8363551988533966,True
+"four, de-duplicated",both (original),equal,full window (interpolated incl.),Afar,Afar_0002,5,7.748830765446182,7.790779013267777,8.376142731666366,8.034377787994416,True
+"four, de-duplicated",both (original),cluster-weighted,full window (interpolated incl.),Afar,Afar_0002,4,7.67999924112784,7.7406529632953776,8.343802805866005,7.988079553531113,True
+"four, de-duplicated",earth only,equal,full window (interpolated incl.),Atacama,Atacama_0004,0,36.41951608682907,35.3052821917847,37.189637180642904,36.17579199043543,False
+"four, de-duplicated",earth only,cluster-weighted,full window (interpolated incl.),Atacama,Atacama_0004,0,36.405324886402965,35.29895532352339,37.17807205997512,36.16420178312894,False
+"four, de-duplicated",robust median/MAD (earth),equal,full window (interpolated incl.),Atacama,Atacama_0004,0,47.4511738289392,46.00601115244569,48.50286198007875,47.18761220467282,False
+"four, de-duplicated",robust median/MAD (earth),cluster-weighted,full window (interpolated incl.),Atacama,Atacama_0004,0,47.446278676902125,46.0038288881681,48.49880480836755,47.18361871612443,False
+"four, de-duplicated",log ratio to Gale,equal,full window (interpolated incl.),Afar,Afar_0002,10,0.6588394729881316,0.7643539255314923,0.756775697276461,0.8142923814230292,True
+"four, de-duplicated",log ratio to Gale,cluster-weighted,full window (interpolated incl.),Afar,Afar_0002,10,0.6470132048887254,0.757794803996731,0.7506917699175972,0.8040332123263914,True
+window-scale three,both (original),equal,full window (interpolated incl.),Afar,Afar_0002,4,7.645351097223964,7.71546781669611,8.321382970429793,7.96481574781436,True
+window-scale three,earth only,equal,full window (interpolated incl.),Atacama,Atacama_0004,0,36.39822721132756,35.295791464101995,37.172288033324705,36.158405227101774,False
+window-scale three,robust median/MAD (earth),equal,full window (interpolated incl.),Atacama,Atacama_0004,0,47.44383091148188,46.0027377172087,48.496776095114335,47.18162183971147,False
+window-scale three,log ratio to Gale,equal,full window (interpolated incl.),Afar,Afar_0002,10,0.6410182566564935,0.753488504228909,0.7476253452944506,0.7988539180844925,True
+directly-supported two,both (original),equal,full window (interpolated incl.),Atacama,Atacama_0011,2,7.387139750007941,7.286579312004218,7.810769577652295,7.526338200294743,False
+directly-supported two,both (original),equal,direct cells only,Atacama,Atacama_0011,2,7.417311203931358,7.319469844986019,7.836420554588782,7.55661313063677,False
+directly-supported two,earth only,equal,full window (interpolated incl.),Atacama,Atacama_0004,0,36.37214637298854,35.21131089348412,37.09430872538327,36.04501506371292,False
+directly-supported two,earth only,equal,direct cells only,Atacama,Atacama_0004,0,37.229931156821806,36.06877341495707,37.95170802693614,36.90279217390969,False
+directly-supported two,robust median/MAD (earth),equal,full window (interpolated incl.),Atacama,Atacama_0004,0,47.39477711332313,45.84377008102857,48.30182810536441,46.96846615305409,False
+directly-supported two,robust median/MAD (earth),equal,direct cells only,Atacama,Atacama_0004,0,48.512670439514785,46.96130583041507,49.41929324517649,48.08635097415178,False
+directly-supported two,log ratio to Gale,equal,full window (interpolated incl.),Atacama,Atacama_0012,2,0.5851713690289777,0.5735798057808867,0.621826556026502,0.5927051005681013,False
+directly-supported two,log ratio to Gale,equal,direct cells only,Atacama,Atacama_0012,2,0.5963852310578349,0.5848111535800139,0.6330632714902986,0.603939008843974,False

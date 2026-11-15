@@ -1,0 +1,4 @@
+scale,share_fully_observed_pct,share_at_least_half_observed_pct,share_with_any_observed_pct
+single cell,29.10904255319149,29.10904255319149,29.10904255319149
+"3x3 neighbourhood (roughness, slope)",1.424772036474164,20.94224924012158,72.96257598784194
+11x11 neighbourhood (local relief),0.0,5.949848024316109,99.36740121580547

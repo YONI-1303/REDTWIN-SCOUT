@@ -1,0 +1,7 @@
+,gale,earth_min,earth_max,gale_z_vs_earth,gale_outside_earth_range
+elevation_std_m,1371.496,828.557,1012.675,8.326,True
+relief_p95_p05_m,4435.0,2569.921,2762.54,35.969,True
+slope_median_deg,5.051,1.823,4.705,2.555,True
+slope_p95_deg,17.027,13.573,19.929,0.081,False
+roughness_3x3_p95_m,114.577,91.249,132.556,0.125,False
+local_relief_11x11_p95_m,1395.0,953.973,1121.922,5.417,True

@@ -1,0 +1,7 @@
+,elevation_std_m,relief_p95_p05_m,slope_median_deg,slope_p95_deg,roughness_3x3_p95_m,local_relief_11x11_p95_m
+elevation_std_m,1.0,0.717,-0.102,-0.203,-0.207,-0.202
+relief_p95_p05_m,0.717,1.0,0.298,-0.437,-0.454,-0.487
+slope_median_deg,-0.102,0.298,1.0,0.334,0.309,0.234
+slope_p95_deg,-0.203,-0.437,0.334,1.0,1.0,0.98
+roughness_3x3_p95_m,-0.207,-0.454,0.309,1.0,1.0,0.984
+local_relief_11x11_p95_m,-0.202,-0.487,0.234,0.98,0.984,1.0

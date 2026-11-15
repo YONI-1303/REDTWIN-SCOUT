@@ -1,0 +1,7 @@
+aggregation_factor,cell_size_m,scaler_fit,gale_blocks_with_direct_data,gale_blocks_total,median_direct_source_cells_per_block,top_region,best_candidate,afar_best,atacama_best
+1,463,both,30646,105280,1.0,Atacama,Atacama_0011,7.417310903278109,7.3194692855075045
+1,463,earth,30646,105280,1.0,Atacama,Atacama_0004,37.22991887577552,36.06876374431115
+2,926,both,13471,26240,2.0,Atacama,Atacama_0011,7.402767868657026,7.302293021700848
+2,926,earth,13471,26240,2.0,Atacama,Atacama_0004,36.992146982843934,35.76743808299969
+4,1852,both,4984,6560,5.0,Atacama,Atacama_0011,7.411341638954751,7.2594752792310615
+4,1852,earth,4984,6560,5.0,Atacama,Atacama_0004,35.24383173533463,33.76367332209198
